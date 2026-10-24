@@ -167,7 +167,9 @@ no_funds_time_passes/
 ├─ synopsis.json                             模组元信息（名称 / 作者 / 版本 / 描述）
 ├─ cover.png                                 创意工坊封面，512×512（见下节）
 ├─ workshop_description.txt                  创意工坊描述（中英双版，复制粘贴用）
-├─ serapeum_catalogue_number.txt             ⚠ 游戏生成的「创意工坊条目 id」，勿删（见下节）
+├─ LICENSE.md                                授权说明（Sixth History 社区许可）
+├─ sixth-history-logo.png                    许可要求的标志
+├─ serapeum_catalogue_number.txt             ⚠ 游戏生成的「创意工坊条目 id」，仅存在于已安装副本，勿删
 ├─ content/recipes/no_funds_time.json        覆盖 needs、discardseason
 ├─ content/recipes/no_funds_decrepitude.json 覆盖 dream.decrepitude.failure
 ├─ loc/loc_zh-hans/recipes/time.json         中文文本（含同样的结构覆盖，见上文）
@@ -258,3 +260,13 @@ Options → Mods（选项 → 模组）里勾选启用。切换启用状态后�
 `File:Funds.png`（金币＋木纹，256×256）、`File:Timepasses.png`（游戏内框的截图，
 用于取框体配色、并量出 verb 图标 : 资金卡 ≈ 1 : 0.39 的比例）。
 生成脚本为工作区里的 `workshop_cover.py`，尺寸、配色、遮挡程度都是脚本参数。
+
+## 授权 / Licence
+
+本模组是《密教模拟器》的**非官方**内容，依 Weather Factory Ltd 的
+[Sixth History 社区许可](https://weatherfactory.biz/sixth-history-community-licence/) 发布；
+与 Weather Factory Ltd、Secret Histories 及任何相关官方内容**无隶属关系**，未获其背书。
+
+![Sixth History](sixth-history-logo.png)
+
+完整的合规说明、著作权归属与美术素材出处见 [LICENSE.md](LICENSE.md)。
