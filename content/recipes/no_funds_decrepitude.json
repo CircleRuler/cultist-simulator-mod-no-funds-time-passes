@@ -1,0 +1,17 @@
+{
+    "recipes": [
+        {
+            "id": "dream.decrepitude",
+            "startdescription": "The Red Cup never runs dry. I will swallow this strange substance, and listen, hungry."
+        },
+        {
+            "id": "dream.decrepitude.failure",
+            "startdescription": "My mouth waters; my vision swims; and the red cup speaks. [Decrepitude and the ingredient are both consumed: gained Hunger.]",
+            "effects": {
+                "ingredient": -1,
+                "decrepitude": -1,
+                "hunger": 1
+            }
+        }
+    ]
+}

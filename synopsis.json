@@ -1,0 +1,7 @@
+{
+    "name": "<font=NotoSansCJKsc-Regular>时间流逝无需资金</font>",
+    "author": "CircleRuler",
+    "version": "1.1.0",
+    "description": "<font=NotoSansCJKsc-Regular>「时间流逝」不再消耗「资金」，也不会因没钱而挨饿。</font>",
+    "description_long": "<font=NotoSansCJKsc-Regular>原版中，计时器「时间流逝」每 60 秒会抓取一张「资金」当作开销；若手头没有资金，则会由「挨饿」分支顶替，扣掉一点健康。本模组移除了「时间流逝」的开销卡槽、移除了对资金的销毁，并移除了「挨饿」分支。时节照常开启，「时间流逝」照旧每分钟推进一次。\n\n由于「挨饿」是全游戏唯一的「饥饿」来源，本模组为教士 DLC 补上了一条替代途径：教士在入梦时可选择「唤起饥饿」，消耗一张「躁动」换得一张「饥饿」，用于铸成红杯的伤疤锁。其他职业不受影响。</font>"
+}

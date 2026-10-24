@@ -1,0 +1,23 @@
+===== 中文 =====
+
+时间流逝无需资金
+
+原版中，计时器「时间流逝」每 60 秒会抓取一张「资金」当作开销；若手头没有资金，则会由「挨饿」分支顶替，扣掉一点健康。本模组移除了「时间流逝」的开销卡槽、移除了对资金的销毁，并移除了「挨饿」分支。时节照常开启，「时间流逝」照旧每分钟推进一次。
+
+「挨饿」原本是全游戏唯一的「饥饿」来源，而教士 DLC 的红杯伤疤锁需要一张「饥饿」。本模组因此改写了入梦时「衰老 + 原料」的结果：原版是消耗原料换来一张「博闻」、衰老不变；现在则是衰老与原料一并还原为一张「饥饿」。这样既补回了「饥饿」的来源，又不会凭空产出——想拿饥饿兑现成健康，必须先烧掉一张衰老。「衰老 + 圣雅纳略的真血 → 健康」这条原版路径保持不变。
+
+本模组由 DeepSeek v4.1flash 生成（包括模组图标），本体只有一行提示词未有人工干预，最后由我自己（人类）测试过 mod 确实生效。mod 的具体改动在文件夹下的 readme 文件里，是大肥鱼自己写的。
+
+
+===== English =====
+
+No Funds Needed for Time Passes
+
+In the base game, the Time Passes timer claims a Funds card every 60 seconds to cover its Expenses. If you have no Funds to hand, the Starvation branch takes its place and costs you a point of Health. This mod removes the Expenses slot from Time Passes, stops Funds from being destroyed, and removes the Starvation branch. Seasons still come and go, and Time Passes still advances once a minute.
+
+Starvation was the game's only source of Hunger, and the Priest DLC's Grail Lock-Scar needs one. This mod therefore rewrites the "Decrepitude + ingredient" dream: where the base game consumed the ingredient for an Erudition and left the Decrepitude untouched, both are now reduced back into a single Hunger. That restores the source of Hunger without conjuring it from nothing — to turn Hunger into Health you must first burn a Decrepitude. The vanilla "Decrepitude + True Blood of St Januarius → Health" path is untouched.
+
+
+===== 备选的英文短简介（Steam 列表里那一行）=====
+
+Time Passes no longer drains your Funds — and no more Starvation.

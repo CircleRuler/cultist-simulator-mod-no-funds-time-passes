@@ -1,0 +1,19 @@
+{
+    "recipes": [
+        {
+            "id": "dream.decrepitude",
+            "label": "孤注一掷的举措",
+            "startdescription": "红杯从不干涸。我将吞下这异质之物，忍饥聆听。"
+        },
+        {
+            "id": "dream.decrepitude.failure",
+            "label": "确是最奇怪的味道",
+            "startdescription": "我口舌生津，视线浮动；红杯开口了。[衰老与原料一并消耗，获得“饥饿”。]",
+            "effects": {
+                "ingredient": -1,
+                "decrepitude": -1,
+                "hunger": 1
+            }
+        }
+    ]
+}
